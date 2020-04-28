@@ -1,0 +1,30 @@
+ {
+    {
+        "id": "b5ed2665-6f49-4703-83c0-3729282d0cdc",
+        "number": "R101",
+        "description": "Rmanager lernen",
+        "coverUrl": null,
+        "bookingInfo": []
+    }£¬
+
+    {
+        "id": "ac9d8815-8a5a-49d9-b4c9-aa08e4c449ea",
+        "name": "xxx",
+        "coverUrl": "xxx",
+        "introduction": "xxxxxx",
+        "users": null,
+        "rooms": null
+    },
+    {
+        "id": "d5dfe260-8f4a-4f18-83b8-1dfd0b68ac6a",
+        "name": "Grillen",
+        "email": "2016231075@qq.com",
+        "avatarUrl": "",
+        "roles": [
+            "Admin",
+            "Grillen",
+            "User"
+        ],
+        "belongOrg": null
+    }
+}
